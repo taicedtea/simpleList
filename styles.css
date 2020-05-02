@@ -4,6 +4,16 @@ html {
 h1 {
     text-decoration: underline;
 }
+#container {
+    position: absolute;
+    width: 300px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+ul {
+    text-align: left;
+}
 #first {
     font-size: 1.1rem;
 }
