@@ -1,0 +1,18 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-decoration: underline;
+}
+#first {
+    font-size: 1.1rem;
+}
+.deleteButton {
+    position: relative;
+    left: 10px;
+    width: 50px;
+    border-radius: 2px;
+}
+.done {
+      text-decoration: line-through;
+}
